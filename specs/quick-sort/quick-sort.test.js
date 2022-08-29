@@ -11,7 +11,6 @@
   is called on a list with length less-than-or-equal-to 1. In the base case, just return the array given.
 
 */
-
 function quickSort(nums) {
   // code goes here
   //base
